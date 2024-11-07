@@ -103,9 +103,6 @@ These metrics are displayed on the client GUI to help analyze the audio streamin
 
 If you wish to contribute, feel free to fork the repository and create a pull request.
 
-## License
+![image](https://github.com/user-attachments/assets/2910f6d3-2a1f-48fd-80a1-ef1a1a0c2433)
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
 
-This README provides a comprehensive overview of your project, usage instructions, and additional details for anyone looking to understand or contribute. Let me know if you need more customization or details added!
