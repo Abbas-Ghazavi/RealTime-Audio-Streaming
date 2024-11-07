@@ -104,5 +104,5 @@ These metrics are displayed on the client GUI to help analyze the audio streamin
 If you wish to contribute, feel free to fork the repository and create a pull request.
 
 ![image](https://github.com/user-attachments/assets/2910f6d3-2a1f-48fd-80a1-ef1a1a0c2433)
-
+![image](https://github.com/user-attachments/assets/8326fd9f-8949-453c-9a3a-37626208443a)
 
